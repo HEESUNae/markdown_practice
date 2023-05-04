@@ -45,12 +45,12 @@ _이텔릭_
 ![이미지](https://blogpfthumb-phinf.pstatic.net/MjAyMTA1MjBfNzYg/MDAxNjIxNTEzNzc0OTI1.9F4fhQHJwpvaDNBdl_b7UldCmua0wmIW9jtNYVTj5tkg.tf1B05A7DjMBG3EhPl3yUZmqnDR7fwzUdoy4p0fylzAg.PNG.heesun945/KakaoTalk_20210520_203821841.png?type=w161)
 
 # 인용문
-> 강곰돌은 황토끼를 좋아한다  
+> 인용문은 이렇게 
 > 이야이야호
 
 # 인라인 코드 강조
 `background`
-백스테이크? 넣으면 코드로 인식한다.
+백틱을 주면 이렇게 코드로 인식한다.
 
 # 블록강조
 ```html
@@ -69,8 +69,7 @@ fixed | 뷰포트 | X
 
 # 원시 html (html구조로 작성함)
 
-강곰돌 <span style="text-decoration:underline">바보</span>멍청이<br>
-강화도 못한대요 메롱  
+underline 주는법 : <span style="text-decoration:underline">이렇게</span> 할수있다.<br> 
 
 # 수평선
 
